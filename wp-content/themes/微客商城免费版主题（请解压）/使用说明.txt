@@ -1,0 +1,11 @@
+这款主题是由WEB主题公园所开发的
+访问地址：https://www.themepark.com.cn/
+
+下载的文件中weekcommerce_free.zip是主题的安装包，你可以从后台--外观--主题--上传主题上传
+导入数据中的uploads.zip 请解压放入wp-content文件夹中，这是导入数据中的图片和附件
+weekcommerce_free.sql 是导入的数据库文件，你可以使用wordpress move 插件进行导入
+
+导入数据的教程请参考视频教程 https://www.themepark.com.cn/wkscmfbwoocommerceztdrsj.html 
+
+
+更多使用上的问题，请参考WEB主题公园woocommerce视频教程专区：https://www.themepark.com.cn/category/woocommerce/woocommercespjc/
